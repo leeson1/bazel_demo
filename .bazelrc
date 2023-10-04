@@ -1,0 +1,4 @@
+build --cxxopt="--std=c++20"
+build --jobs 4
+#build --copt=-Wl,-rpath 
+#build --copt=-Wl,LIBDIR

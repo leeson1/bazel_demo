@@ -1,0 +1,10 @@
+bazel-bin/
+
+bazel-exercise_bazel/
+
+bazel-out/
+
+bazel-testlogs/
+
+.vscode/
+
